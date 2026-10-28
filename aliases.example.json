@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy to aliases.json. Keys: company name lowercased, punctuation and Inc/Ltd/Careers removed. Values: the name to show.",
+  "jpmc": "JPMorgan Chase",
+  "jp morgan chase": "JPMorgan Chase",
+  "meta platforms": "Meta",
+  "amazon com": "Amazon",
+  "aws": "Amazon"
+}

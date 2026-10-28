@@ -1,0 +1,10 @@
+credentials.json
+token.json
+cache/
+output/
+.venv/
+aliases.json
+last_sync.txt
+__pycache__/
+.DS_Store
+*.log
